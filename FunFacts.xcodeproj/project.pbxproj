@@ -14,6 +14,7 @@
 		4BAFDE4F1B4C2ADB00746ECF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4BAFDE4D1B4C2ADB00746ECF /* LaunchScreen.xib */; };
 		4BAFDE5B1B4C2ADB00746ECF /* FunFactsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BAFDE5A1B4C2ADB00746ECF /* FunFactsTests.swift */; };
 		4BAFDE651B4C3EE200746ECF /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BAFDE641B4C3EE200746ECF /* FactBook.swift */; };
+		4BAFDE691B4C5D1F00746ECF /* ColorWheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BAFDE681B4C5D1F00746ECF /* ColorWheel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +40,7 @@
 		4BAFDE5A1B4C2ADB00746ECF /* FunFactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactsTests.swift; sourceTree = "<group>"; };
 		4BAFDE641B4C3EE200746ECF /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
 		4BAFDE661B4C4ACC00746ECF /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground.playground; path = ../FunFacts/MyPlayground.playground; sourceTree = "<group>"; };
+		4BAFDE681B4C5D1F00746ECF /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				4BAFDE4B1B4C2ADB00746ECF /* Images.xcassets */,
 				4BAFDE4D1B4C2ADB00746ECF /* LaunchScreen.xib */,
 				4BAFDE421B4C2ADB00746ECF /* Supporting Files */,
+				4BAFDE681B4C5D1F00746ECF /* ColorWheel.swift */,
 			);
 			path = FunFacts;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				4BAFDE651B4C3EE200746ECF /* FactBook.swift in Sources */,
 				4BAFDE471B4C2ADB00746ECF /* ViewController.swift in Sources */,
 				4BAFDE451B4C2ADB00746ECF /* AppDelegate.swift in Sources */,
+				4BAFDE691B4C5D1F00746ECF /* ColorWheel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
